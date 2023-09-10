@@ -24,7 +24,7 @@
 <div class="login-box ">
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-        <a href="login" class="h1"><b>CNI</b> </a>
+        <a href="login" class="h1"><b>I.E.E.G.U.S.C.</b> </a>
         <p class="my-0">SISTEMA CONTROL DE ASISTENCIA</p>
     </div>
     <div class="card-body login-card-body">
@@ -66,10 +66,14 @@
             </div> --}}
           </div>
             
-          <div class="col-4">
+          <div class="col-12">
             <button type="submit" class="btn btn-primary btn-block">
               {{-- <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> --}}
               <span >Ingresar</span>
+            </button>
+            <button type="submit" class="btn btn-secondary btn-block">
+              {{-- <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> --}}
+              <span >Registrar</span>
             </button>
           </div> 
         </div>
