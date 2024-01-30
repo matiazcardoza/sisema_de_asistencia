@@ -11,7 +11,7 @@
       object-fit: center;
   }
   .login-page{ 
-      background-image:  url('images/bg-login.jpg');
+      background-image:  url('images/bg.jpg');
       background-position: center;
       object-fit: cover;background-size: cover;
       background-repeat: no-repeat;
@@ -19,12 +19,12 @@
   }
 </style>
 <div class="text-center mb-2">
-  <img src="{{asset('images/insignia_cni_alma_mater.png')}}" class="img-fluid coverpe" alt="">
+  <img src="{{asset('images/carmen logo.jpg')}}" class="img-fluid coverpe" alt="">
 </div>
 <div class="login-box ">
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-        <a href="login" class="h1"><b>I.E.E.G.U.S.C.</b> </a>
+        <a href="login" class="h1"><b>E. I. E. S. N. S. C.</b> </a>
         <p class="my-0">SISTEMA CONTROL DE ASISTENCIA</p>
     </div>
     <div class="card-body login-card-body">

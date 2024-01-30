@@ -1,7 +1,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-2">
     <!-- Brand Logo -->
     <a href="#" class="brand-link navbar-primary">
-        <img src="{{asset('images/lg-menu.png')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+        <img src="{{asset('images/lg-menu.jpg')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
         <span class="brand-text font-weight-bold">CONTR. ASISTENCIA</span>
     </a>
 
