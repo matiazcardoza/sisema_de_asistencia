@@ -20,9 +20,4 @@ pass: admin
 
 * mockup en Adobe Xd [mockup.xd](mockups.xd)
 * modelado en MysqlWordbench [MysqlWordbench.mwb](database-mysql-workbench.mwb)
-
-* Proyecto Liberado. MIT
-
-![](/19190458.png)
-![](/19190734.png)
-![](/190811.png)
+# sisema_de_asistencia
